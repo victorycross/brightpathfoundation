@@ -21,10 +21,7 @@ import {
   Lightbulb
 } from 'lucide-react'
 import studentsClassroom from './assets/students-classroom.jpg'
-import studentLaptop from './assets/student-laptop.jpg'
-import teenTechnology from './assets/teen-technology.jpg'
 import diverseLearners from './assets/diverse-learners.jpg'
-import cleanLaptop from './assets/clean-laptop.jpg'
 import educationalTech from './assets/educational-tech.jpg'
 import './App.css'
 
